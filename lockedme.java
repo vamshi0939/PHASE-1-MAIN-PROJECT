@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.Scanner;
 import java.io.IOException;
 
-public class lockedme {
+public class LockedMe {
 
 
 
